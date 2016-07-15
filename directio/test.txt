@@ -1,0 +1,4 @@
+101001Test item description    Y00002995
+101016Some kind of stuff       N00010199
+102001Another item description Y00001185
+102014This is a test           N00000995
